@@ -1,0 +1,17 @@
+{
+    "name": "benilto/src",
+    "description": "Desenvolvimento de uma plataforma de ensino a distância(EAD)!",
+    "authors": [
+        {
+            "name": "Benilto Santos",
+            "email": "analistadesistemasead@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "../app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
